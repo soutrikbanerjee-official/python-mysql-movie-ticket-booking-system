@@ -445,5 +445,6 @@ def control():
     print("Thank you for using SB Theatres!")
     print("We hope you had a great experience!")
     print("Goodbye!")
+    print("Developed by Soutrik Banerjee | GitHub: github.com/EnderionX\n© 2025 All Rights Reserved")
 
 control()
