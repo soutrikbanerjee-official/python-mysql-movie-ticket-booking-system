@@ -99,23 +99,21 @@ This project was developed to demonstrate how programming and database systems c
 
 ---
 
-## 🔮 Future Improvements
-
-The follwing features can be added to enhance the programs outlook:
-
-- Graphical User Interface (GUI)
-- Online payment gateway integration
-- Real-time seat availability system
-- Web-based deployment
-
----
-
 ## 📌 Note
 
 This project was developed as part of a Class XII Computer Science project and represents a practical implementation of Python and MySQL concepts.
 
 ---
 
-## 📜 License
+## 👨‍💻 About me
 
+I'm a student interested in mathematics, programming, and problem-solving.
+This project is one of my steps toward building practical tools using Python.
+Drop a follow to keep me motivated! :)
+GitHub: https://github.com/EnderionX
+
+---
+
+## 📜 License
 This project is licensed under the MIT License.
+© 2025 Soutrik Banerjee. All rights reserved.
