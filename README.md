@@ -1,45 +1,19 @@
 # 🎬 Movie Ticket Booking System
 
-A command-line based movie ticket booking system developed using **Python and MySQL**, designed to simulate a real-world cinema booking platform.
-
-This project provides a complete digital solution for browsing movies, selecting show timings, booking tickets, managing user profiles, and generating bills with tax calculations.
+> This project is a command-line based movie ticket booking system developed using **Python and MySQL**, designed to simulate a real-world cinema booking platform.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 **User Authentication System**
-  - Login using mobile number with OTP verification (Sample)
-  - New user registration with profile details (Name, Email, Gender, DOB)
-
-- 🎥 **Movie Selection System**
-  - Browse movies by genre (Action, Crime, Fantasy, etc.)
-  - Select movie, day, and time slot
-
-- 🎟 **Ticket Booking**
-  - Book multiple tickets (1–10)
-  - Base pricing with dynamic bill calculation
-
-- 💺 **Seat Upgrade System**
-  - Premium, Deluxe, and Recliner seat options
-  - Automatic cost adjustment based on upgrades
-
-- 💳 **Payment System**
-  - Multiple payment modes (UPI, Card, Net Banking, Cash)
-  - GST calculation (18%)
-  - Booking confirmation with unique booking number
-
-- 🧾 **Bill Generation**
-  - Generates detailed booking bill
-  - Saves bill as a `.txt` file for future reference
-
-- 👤 **User Profile Management**
-  - View and edit personal details
-  - View booking history
-  - Delete account functionality
-
-- 💬 **Feedback System**
-  - Users can submit feedback linked to their booking
+- **User Authentication System**
+- **Movie Selection System**
+- **Ticket Booking**
+- **Seat Upgrade System**
+- **Payment System**
+- **Bill Generation**
+- **User Profile Management**
+- **Feedback System**
 
 ---
 
@@ -101,7 +75,7 @@ This project was developed to demonstrate how programming and database systems c
 
 ## 📌 Note
 
-This project was developed as part of a Class XII Computer Science project and represents a practical implementation of Python and MySQL concepts.
+This project was developed as part of a CBSE Class XII Computer Science project and represents a practical implementation of Python and MySQL concepts.
 
 ---
 
@@ -116,4 +90,4 @@ GitHub: https://github.com/EnderionX
 
 ## 📜 License
 This project is licensed under the MIT License.
-© 2025 Soutrik Banerjee. All rights reserved.
+© 2026 Soutrik Banerjee. All rights reserved.
