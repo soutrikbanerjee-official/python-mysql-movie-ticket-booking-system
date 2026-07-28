@@ -1,4 +1,4 @@
-# Movie Ticket Booking System
+# Python-MySQL Movie Ticket Booking System
 
 > This project is a command-line based movie ticket booking system developed using **Python and MySQL**, designed to simulate a real-world cinema booking platform.
 
@@ -50,7 +50,7 @@ This project was developed as part of a CBSE Class XII Computer Science project 
 
 ---
 
-## About me
+## About Me
 
 I'm a student and tech enthusiast.
 This project is one of my steps toward building practical tools using Python.
