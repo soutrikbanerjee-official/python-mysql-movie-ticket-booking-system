@@ -4,28 +4,6 @@
 
 ---
 
-## Features
-
-- **User Authentication System**
-- **Movie Selection System**
-- **Ticket Booking**
-- **Seat Upgrade System**
-- **Payment System**
-- **Bill Generation**
-- **User Profile Management**
-- **Feedback System**
-
----
-
-## Technologies Used
-
-- **Python** – Core programming logic
-- **MySQL** – Database management
-- **MySQL Connector (Python)** – Database connectivity
-- **File Handling** – Bill storage and retrieval
-
----
-
 ## Project Structure & Summary
 
 The program is modular and built using multiple functions:
@@ -40,6 +18,19 @@ The program is modular and built using multiple functions:
 - `control()` – Main driver function
 
 Refer to the data-flow chart for a better understanding of the program execution. 
+
+---
+
+## Features
+
+- **User Authentication System**
+- **Movie Selection System**
+- **Ticket Booking**
+- **Seat Upgrade System**
+- **Payment System**
+- **Bill Generation**
+- **User Profile Management**
+- **Feedback System**
 
 ---
 
