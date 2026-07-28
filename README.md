@@ -1,10 +1,10 @@
-# 🎬 Movie Ticket Booking System
+# Movie Ticket Booking System
 
 > This project is a command-line based movie ticket booking system developed using **Python and MySQL**, designed to simulate a real-world cinema booking platform.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **User Authentication System**
 - **Movie Selection System**
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python** – Core programming logic
 - **MySQL** – Database management
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 Project Structure
+## Project Structure & Summary
 
 The program is modular and built using multiple functions:
 
@@ -43,16 +43,7 @@ Refer to the data-flow chart for a better understanding of the program execution
 
 ---
 
-## ⚙️ System Requirements
-
-**Software:**
-- Python 3
-- MySQL Server (8.0 recommended)
-- MySQL Connector
-
----
-
-## ▶️ How to Run
+## How to Run
 
 1. Install Python and MySQL
 2. Install MySQL connector
@@ -62,32 +53,26 @@ Refer to the data-flow chart for a better understanding of the program execution
 
 ---
 
-## 🎯 Purpose
-
-This project was developed to demonstrate how programming and database systems can be integrated to build a real-world application. It focuses on applying concepts such as:
-
-- modular programming
-- database management
-- user interaction design
-- logical decision-making
-
----
-
-## 📌 Note
+## Note
 
 This project was developed as part of a CBSE Class XII Computer Science project and represents a practical implementation of Python and MySQL concepts.
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-I'm a student interested in mathematics, programming, and problem-solving.
+I'm a student and tech enthusiast.
 This project is one of my steps toward building practical tools using Python.
 Drop a follow to keep me motivated! :)
-GitHub: https://github.com/EnderionX
+
+* LinkedIn: www.linkedin.com/in/soutrikbanerjee
+* GitHub: www.github.com/EnderionX
+* YouTube: www.youtube.com/@SoutrikBanerjee_Official
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License.
 © 2026 Soutrik Banerjee. All rights reserved.
+
+---
