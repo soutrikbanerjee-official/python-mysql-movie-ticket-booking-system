@@ -57,7 +57,7 @@ This project is one of my steps toward building practical tools using Python.
 Drop a follow to keep me motivated! :)
 
 * LinkedIn: www.linkedin.com/in/soutrikbanerjee
-* GitHub: wwww.github.com/soutrikbanerjee-official
+* GitHub: www.github.com/soutrikbanerjee-official
 * YouTube: www.youtube.com/@soutrikbanerjee-official
 
 ---
